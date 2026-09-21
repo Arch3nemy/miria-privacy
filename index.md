@@ -145,9 +145,15 @@ Depending on where you live, you may have the right to access, correct, export
 or delete personal information about you, restrict or object to processing, and
 complain to your local data protection authority.
 
-Email **[ialacritydev@gmail.com](mailto:ialacritydev@gmail.com)** to make a
-request. Requests are handled manually and answered within 30 days. We may need
-to verify that the account or guest identity belongs to you before acting.
+Signed-in owners can permanently remove their account and associated data
+immediately from Miria's
+**[account-deletion page](https://miria-xi.vercel.app/delete-account)**. The
+page asks for the account email and requires a recent sign-in before deletion.
+
+Email **[ialacritydev@gmail.com](mailto:ialacritydev@gmail.com)** to request a
+copy or correction, or when you cannot sign in. Manual requests are answered
+within 30 days. We may need to verify that the account or guest identity belongs
+to you before acting.
 
 You can also release your own reservations, withdraw your pledges, leave by
 clearing the guest data stored on your device, or delete gifts and lists you
